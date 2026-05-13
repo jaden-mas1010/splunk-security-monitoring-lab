@@ -1,0 +1,2 @@
+index="VPN_Logs"
+| stats count AS total_events
