@@ -1,0 +1,2 @@
+index="VPN_Logs" NOT Source_Country="France"
+| stats count AS non_france_events
